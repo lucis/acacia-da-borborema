@@ -8,9 +8,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@luciannojunior/gatsby-theme-lodge": "^1.1.1",
     "gatsby": "^2.15.7",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "@luciannojunior/gatsby-theme-lodge": "^1.1.1"
+    "react-dom": "^16.9.0"
   }
 }
