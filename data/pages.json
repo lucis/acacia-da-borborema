@@ -7,16 +7,31 @@
     {
       "page": "o-que-e-maconaria",
       "value": "O que é Maçonaria"
+    },
+    {
+      "page": "loja",
+      "value": "Loja"
+    },
+    {
+      "page": "o-que-e-maconaria",
+      "value": "O que é Maçonaria"
+    },
+    {
+      "page": "o-que-e-maconaria",
+      "value": "O que é Maçonaria"
     }
   ],
   "pages": {
+    "loja": {
+      "component": "Diretoria"
+    },
     "home": {
       "homepage": true,
       "component": "Home",
       "props": {
         "landing": {
           "landingText": {
-            "lodgeName": "Regeneração Campinense nº 02",
+            "lodgeName": "Acácia da Borborema nº 41",
             "location": "Situada na Rua Siqueira Campos, Campina Grande - PB",
             "meetings": "quartas-feiras às 19:00hrs"
           }
