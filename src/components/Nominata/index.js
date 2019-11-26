@@ -8,7 +8,6 @@ const MOCK = [
   { cargo: '2º Vigilante', oficial: 'José Romualdo' },
 ]
 
-console.log(styles)
 const Nominata = ({ cargos = MOCK }) => {
   return (
     <div className={classnames('flex justify-center mb4')}>

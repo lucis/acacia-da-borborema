@@ -44,7 +44,6 @@ const Maconaria = () => {
         <MD source={primeiraSecao} escapeHtml={false} />
         <img src={require("./graus.jpg")} alt="Graus da Maçonaria" />
         <MD source={segundaSecao} escapeHtml={false} />
-        <img src={require("./fam.jpg")} alt="Graus da Maçonaria" />
         <h3 className="mt4">Saiba mais em:</h3>
         <ul className="list pl3 pv3">
           <li>

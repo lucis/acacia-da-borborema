@@ -44,7 +44,21 @@
         },
         "cards": {
           "historia": {
-            "text": "A tal Loja nasceu há 20 anos..."
+            "text": "A Loja \"Acácia da Borborema\" nº 41 foi fundada no ano de 1999 na cidade de Campina Grande - PB, formada por maçons originários da Loja \"Regeneração Campinense\" dedicados a expandir os trabalhos da Maçonaria na sociedade campinense. Desde lá, mais de 200 obreiros foram iniciados nos quadros da Loja.",
+            "path": "/loja"
+          },
+          "veneraveis": {
+            "text": "Valorizamos bastante aqueles que antes foram Venerável-Mestre da Acácia, e a cada gestão que passa é deixado escrito nas páginas da história o trabalho a a dedicação destes homes. Confira nossa galeria de veneráveis.",
+            "path": "/veneraveis"
+          },
+          "diretoria": {
+            "title": "Nominata",
+            "text": "A cada gestão, que tipicamente dura 2 anos, os membros de nossa Loja são designados para funções específicas que garantem o bom funcionamento desta organização e também ensina valorosas virtudes com os mais diversos desafios. O espírito de liderança e a responsabilidade sempre acompanham o caminho de um maçom.",
+            "path": "/nominata"
+          },
+          "filantropia": {
+            "text": "Um dos pilares da Maçonaria é a conscientização do espírito filantrópico, com a benevolência e a caridade guiando o aprendizado e a iluminação de cada um que inicia nesta Ordem. Com diversos projetos filantrópicos, nossa Loja está sempre em busca de um melhor bem-estar social e da paz no mundo.",
+            "path": "/"
           }
         },
         "gallery": {
