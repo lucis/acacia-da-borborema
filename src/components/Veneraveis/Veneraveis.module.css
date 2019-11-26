@@ -1,0 +1,17 @@
+.container {
+  max-width: 800px;
+}
+
+.atual {
+  background-color: #b1ddf1;
+}
+
+.atualSpan {
+  color: #006699;
+  font-weight: 900;
+  font-size: 10px;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 3px 0;
+  margin-bottom: 5px;
+}

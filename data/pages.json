@@ -10,20 +10,26 @@
     },
     {
       "page": "loja",
-      "value": "Loja"
+      "value": "Sobre a Loja"
     },
     {
-      "page": "o-que-e-maconaria",
-      "value": "O que é Maçonaria"
+      "page": "veneraveis",
+      "value": "Galeria de Veneráveis"
     },
     {
-      "page": "o-que-e-maconaria",
-      "value": "O que é Maçonaria"
+      "page": "nominata",
+      "value": "Nominata"
     }
   ],
   "pages": {
+    "veneraveis": {
+      "component": "Veneraveis"
+    },
+    "nominata": {
+      "component": "Nominata"
+    },
     "loja": {
-      "component": "Diretoria"
+      "component": "Home"
     },
     "home": {
       "homepage": true,
