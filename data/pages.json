@@ -29,7 +29,7 @@
       "component": "Nominata"
     },
     "loja": {
-      "component": "Home"
+      "component": "Loja"
     },
     "home": {
       "homepage": true,
@@ -49,7 +49,8 @@
           },
           "veneraveis": {
             "text": "Valorizamos bastante aqueles que antes foram Venerável-Mestre da Acácia, e a cada gestão que passa é deixado escrito nas páginas da história o trabalho a a dedicação destes homes. Confira nossa galeria de veneráveis.",
-            "path": "/veneraveis"
+            "path": "/veneraveis",
+            "title": "Galeria de Veneráveis"
           },
           "diretoria": {
             "title": "Nominata",

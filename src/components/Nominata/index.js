@@ -12,8 +12,8 @@ const Nominata = ({ cargos = MOCK }) => {
   return (
     <div className={classnames('flex justify-center mb4')}>
       <div className={classnames('ph4', styles.container)}>
-        <h1>Nominata da Loja</h1>
-        <p>
+        <h1 className="f3 f2-ns tl">Nominata da Loja</h1>
+        <p className="tl">
           A cada gestão de uma Loja, a diretoria escolhe os nomes dos irmãos que
           irão compor a nominata. Confira quais são os oficiais da atual gestão:
         </p>

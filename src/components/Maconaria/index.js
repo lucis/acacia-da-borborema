@@ -4,7 +4,8 @@ import MD from "react-markdown/with-html";
 import styles from "./Maconaria.module.css";
 
 const primeiraSecao = `
-# O que é Maçonaria?
+<h1 class="f3 f2-ns">O que é Maçonaria?</h1>
+
 A Maçonaria é a maior **ordem fraternal** do mundo, formada por homens de todas as raças, credos e nacionalidades. Os maçons, como são chamados os membros da Maçonaria, são acolhidos através de uma **iniciação** e congregados em Lojas, nas quais, auxiliados por símbolos e alegorias, estudam e trabalham para a construção de uma **sociedade humana fundada no amor fraternal, na tolerância e na liberdade.**
 <br/>
 <br/>

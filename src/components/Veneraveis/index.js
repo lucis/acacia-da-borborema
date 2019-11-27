@@ -21,8 +21,8 @@ const Veneraveis = ({ dados = MOCK }) => {
   return (
     <div className="flex justify-center">
       <div className={classnames("ph4", styles.container)}>
-        <h1>Galera de Veneráveis</h1>
-        <p>
+        <h1 className="f3 f2-ns tl">Galera de Veneráveis</h1>
+        <p className="tl">
           Uma Loja Maçônica é comandada por um Venerável-Mestre, que é um maçom
           eleito para liderar a gestão administrativa nos próximos dois anos.
           Conheça o histórico de veneráveis de nossa Loja:
