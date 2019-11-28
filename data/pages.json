@@ -28,7 +28,7 @@
         "dados": {
           "atual": {
             "nome": "Luciano de Oliveira",
-            "pic": "images/veneraveis/luciano.jpg"
+            "pic": "/images/veneraveis/luciano.jpg"
           },
           "galeria": [
             {
