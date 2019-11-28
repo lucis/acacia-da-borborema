@@ -23,7 +23,77 @@
   ],
   "pages": {
     "veneraveis": {
-      "component": "Veneraveis"
+      "component": "Veneraveis",
+      "props": {
+        "dados": {
+          "atual": {
+            "nome": "Luciano de Oliveira",
+            "pic": "images/veneraveis/luciano.jpg"
+          },
+          "galeria": [
+            {
+              "nome": "Inácio Colaço",
+              "periodo": "1999/2001",
+              "pic": "/images/veneraveis/inacio.jpg"
+            },
+            {
+              "nome": "Walber Santiago Colaço",
+              "periodo": "2001/2003",
+              "pic": "/images/veneraveis/walber.jpg"
+            },
+            {
+              "nome": "João de Azevêdo Freire",
+              "periodo": "2003/2007",
+              "pic": "/images/veneraveis/joao.jpg"
+            },
+            {
+              "nome": "Adelmo Cardoso de Castro",
+              "periodo": "2007",
+              "pic": "/images/veneraveis/adelmo.jpg"
+            },
+            {
+              "nome": "Nilson Nogueira de Melo",
+              "periodo": "2007/2009",
+              "pic": "/images/veneraveis/nilson.jpg"
+            },
+            {
+              "nome": "Agenor Pessoal de Azevêdo Filho",
+              "periodo": "2009/2011",
+              "pic": "/images/veneraveis/agenor.jpg"
+            },
+            {
+              "nome": "Paulo Falcão de Araújo",
+              "periodo": "2011/2012",
+              "pic": "/images/veneraveis/paulo.jpg"
+            },
+            {
+              "nome": "Francisco Rodrigues Coura",
+              "periodo": "2012/2013",
+              "pic": "/images/veneraveis/coura.jpg"
+            },
+            {
+              "nome": "Otoniel Caetano Batista",
+              "periodo": "2013/2015",
+              "pic": "/images/veneraveis/otoniel.jpg"
+            },
+            {
+              "nome": "João Irineu Neto",
+              "periodo": "2015/2017",
+              "pic": "/images/veneraveis/irineu.jpg"
+            },
+            {
+              "nome": "Geraldo de Sousa Morais",
+              "periodo": "2017/2019",
+              "pic": "/images/veneraveis/geraldo.jpg"
+            },
+            {
+              "nome": "Walter Santiago Colaço",
+              "periodo": "2019",
+              "pic": "/images/veneraveis/walter.jpg"
+            }
+          ]
+        }
+      }
     },
     "nominata": {
       "component": "Nominata"

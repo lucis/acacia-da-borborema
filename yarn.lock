@@ -786,9 +786,9 @@
     "@hapi/hoek" "^8.3.0"
 
 "@luciannojunior/gatsby-theme-lodge@^1.1.13":
-  version "1.1.13"
-  resolved "https://registry.yarnpkg.com/@luciannojunior/gatsby-theme-lodge/-/gatsby-theme-lodge-1.1.13.tgz#42ff8222b19600a436f60aa62b3bc94c64700557"
-  integrity sha512-X7kdtJK8TI7ETdJ4Ch+sQzhWqNMkH5i/84HN7nmdxUO4R+0RoQVcSEZ41IbZ2EeLemdnLZeTYP000vA+kTq0uw==
+  version "1.1.14"
+  resolved "https://registry.yarnpkg.com/@luciannojunior/gatsby-theme-lodge/-/gatsby-theme-lodge-1.1.14.tgz#0a16d37192253dba41bfbc5beb520d3cec9a4226"
+  integrity sha512-o7C3E2BUm8xISNYnIjCEe/DLA+G/oLUV2QSYCFfwgyunxCFksrDRorBukg+8Tsm/R4NB0dLs1gxTgH+huYJwhA==
   dependencies:
     "@luciannojunior/gatsby-transformer-pages-json" "^0.2.0"
     classnames "^2.2.6"
@@ -10934,9 +10934,9 @@ xmlhttprequest-ssl@~1.5.4:
   integrity sha1-wodrBhaKrcQOV9l+gRkayPQ5iz4=
 
 xstate@^4.6.7:
-  version "4.6.7"
-  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.6.7.tgz#1f325df07d75676c90d65b17a3a56692f259fd41"
-  integrity sha512-mqgtH6BXOgjOHVDxZPyW/h6QUC5kfEggh5IN8uOitjzrdCScE/a/cwcRvgcH8CGAXYReDNvasOKD0aFBWAZ1fg==
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.7.0.tgz#5572227db3fd757edc5e684d4896309670fec14e"
+  integrity sha512-imBgV+W/2ZHivqp6JeEmtSv6OgVokjnqabHEN9JeolV10mBQuKiigr9CsjPgGHFBR+715egOiDDYi7DNEzb9eA==
 
 xtend@^4.0.0, xtend@^4.0.1, xtend@~4.0.1:
   version "4.0.2"
