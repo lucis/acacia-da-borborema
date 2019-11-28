@@ -20,7 +20,7 @@ const Card = ({ classes, data: { title, path, text, image } }) => {
             saiba mais
           </a>
         </div>
-        <p className="f6 tj i pa2 pv3">{text}</p>
+        <p className="tj i pa2 pv3">{text}</p>
         <div />
       </div>
     </div>
