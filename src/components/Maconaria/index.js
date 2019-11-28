@@ -1,7 +1,7 @@
-import React from "react";
-import classnames from "classnames";
-import MD from "react-markdown/with-html";
-import styles from "./Maconaria.module.css";
+import React from 'react'
+import classnames from 'classnames'
+import MD from 'react-markdown/with-html'
+import styles from './Maconaria.module.css'
 
 const primeiraSecao = `
 <h1 class="f3 f2-ns">O que é Maçonaria?</h1>
@@ -13,7 +13,7 @@ A Maçonaria é a maior **ordem fraternal** do mundo, formada por homens de toda
 A Maçonaria **não é uma religião**, mas é necessária a crença em um princípio criador para o ingresso na instituição. O amor a Deus, à Pátria, à Família e ao Próximo, com tolerância, com virtude e com sabedoria deve guiar a vida de um maçom, buscando sempre de maneira livre a investigação da verdade, aliada ao progresso do conhecimento humano, das ciências e das artes, sob a tríade: **Liberdade, Igualdade e Fraternidade**; dentro dos princípios da razão e da justiça, a fim de que o mundo alcance a felicidade geral e a paz universal. A maçonaria também tem um forte pilar filantrópico, promovendo **ações de caridade** e de conscientização social.
 <br/>
 <br/>
-`;
+`
 
 const segundaSecao = `
 <br/>
@@ -24,7 +24,7 @@ As reuniões nas Lojas e o aprendizado dentro da ordem criam um forte laço de c
 <br/>
 
 ## Liderança
-A maçonaria oferece inúmera e diversas oportunidades de liderança para seus membros, seja nas Lojas ou nas instituições administrativas pelo país, chamadas também de potências maçônicas. Ao longo do caminho de aprendizado dentro da ordem, o maçom encontrará diversos **desafios**, descobrirá **aspectos pessoais**, e poderá **desenvolver habilidades** que ele talvez nem soubesse que tinha. Através de papéis de liderança, um maçom abre as portas para descobrir todo o seu potencial.
+A maçonaria oferece inúmeras e diversas oportunidades de liderança para seus membros, seja nas Lojas ou nas instituições administrativas pelo país, chamadas também de potências maçônicas. Ao longo do caminho de aprendizado dentro da ordem, o maçom encontrará diversos **desafios**, descobrirá **aspectos pessoais**, e poderá **desenvolver habilidades** que ele talvez nem soubesse que tinha. Através de papéis de liderança, um maçom abre as portas para descobrir todo o seu potencial.
 
 <br/>
 
@@ -37,13 +37,14 @@ As cerimônias maçônicas fornecem instruções a todos os membros, complementa
 Por mais que a maçonaria permita apenas homens adultos em suas fileiras, toda a família é bem-vinda às Lojas através das **organizações paramaçônicas**. Atualmente, há diversas destas instituições em atividade e se destinam a diferentes públicos: a [**Ordem DeMolay**]([http://juntosvamosmaislonge.com.br/](http://juntosvamosmaislonge.com.br/)) aceita jovens de 12 a 21 anos e utiliza-se de ideais comuns a maçonaria para construir uma melhor juventude. Já para meninas, existem a [**Ordem Internacional das Filhas de Jó**](https://pt.wikipedia.org/wiki/Ordem_Internacional_das_Filhas_de_J%C3%B3) ou a [**Ordem Internacional do Arco-íris**](https://pt.wikipedia.org/wiki/Ordem_Internacional_das_Filhas_de_J%C3%B3) que apresentam propósito semelhantes. As esposas dos maçons também se congregam em associações vinculadas as Lojas, como o grupo **Damas da Acácia**.
 
 <br/><br/>
-`;
+`
+
 const Maconaria = () => {
   return (
     <div className="flex justify-center">
-      <div className={classnames("mh4 tj", styles.container)}>
+      <div className={classnames('mh4 tj', styles.container)}>
         <MD source={primeiraSecao} escapeHtml={false} />
-        <img src={require("./graus.jpg")} alt="Graus da Maçonaria" />
+        <img src={require('./graus.jpg')} alt="Graus da Maçonaria" />
         <MD source={segundaSecao} escapeHtml={false} />
         <h3 className="mt4">Saiba mais em:</h3>
         <ul className="list pl3 pv3">
@@ -60,7 +61,7 @@ const Maconaria = () => {
         </ul>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Maconaria;
+export default Maconaria

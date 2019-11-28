@@ -96,7 +96,39 @@
       }
     },
     "nominata": {
-      "component": "Nominata"
+      "component": "Nominata",
+      "props": {
+        "cargos": [
+          {
+            "cargo": "Venerável-Mestre",
+            "oficial": "Luciano de Oliveira"
+          },
+          {
+            "cargo": "1º Vigilante",
+            "oficial": "Tarcísio Feitosa"
+          },
+          {
+            "cargo": "2º Vigilante",
+            "oficial": "Coreolano"
+          },
+          {
+            "cargo": "Orador",
+            "oficial": "Francisco Coura"
+          },
+          {
+            "cargo": "Adj. Orador",
+            "oficial": "Geraldo Morais"
+          },
+          {
+            "cargo": "Secretário",
+            "oficial": "João Azevedo"
+          },
+          {
+            "cargo": "Tesoureiro",
+            "oficial": "Sérgio Duarte"
+          }
+        ]
+      }
     },
     "loja": {
       "component": "Loja"
