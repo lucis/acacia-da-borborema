@@ -42,7 +42,7 @@ Por mais que a maçonaria permita apenas homens adultos em suas fileiras, toda a
 const Maconaria = () => {
   return (
     <div className="flex justify-center">
-      <div className={classnames('mh4 tj', styles.container)}>
+      <div className={classnames('mh3 tj', styles.container)}>
         <MD source={primeiraSecao} escapeHtml={false} />
         <img src={require('./graus.jpg')} alt="Graus da Maçonaria" />
         <MD source={segundaSecao} escapeHtml={false} />
