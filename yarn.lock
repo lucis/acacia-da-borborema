@@ -786,9 +786,9 @@
     "@hapi/hoek" "^8.3.0"
 
 "@luciannojunior/gatsby-theme-lodge@^1.1.19":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@luciannojunior/gatsby-theme-lodge/-/gatsby-theme-lodge-1.2.0.tgz#a180ec6163aaa5d2dcb77bee2ea3024e0238274a"
-  integrity sha512-xE0eYP+fHoNP0ztxcur5XB16ThjWEU9RmZVClyCcx61ihXf/YdJW4BNVfMAEBHKgB4IiH6R7xUx/3URY2s7K0A==
+  version "1.1.19"
+  resolved "https://registry.yarnpkg.com/@luciannojunior/gatsby-theme-lodge/-/gatsby-theme-lodge-1.1.19.tgz#83d94352467b66041ee7933df434cd708b2a77d0"
+  integrity sha512-mixAxqdG4JPMIOwinTJ6noPVE3saiSR9RDc++H2dfEabDYkMBDvZ6k0qC6TKF74fZbiCCzJixFhLMlSx48VSAQ==
   dependencies:
     "@luciannojunior/gatsby-transformer-pages-json" "^0.2.0"
     classnames "^2.2.6"
