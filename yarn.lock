@@ -786,9 +786,9 @@
     "@hapi/hoek" "^8.3.0"
 
 "@luciannojunior/gatsby-theme-lodge@^1.1.15":
-  version "1.1.17"
-  resolved "https://registry.yarnpkg.com/@luciannojunior/gatsby-theme-lodge/-/gatsby-theme-lodge-1.1.17.tgz#6e2ab4c45cec2818726b43c225e83ab51e4d2ae9"
-  integrity sha512-Bt3+n6EMPZb+gNnP0ZZTH7n24Te41EcIyTUszb/HNxKzxtx7RjMENvqKaMRCE1IbiP/MVU2ggcM19nKMxszq/Q==
+  version "1.1.18"
+  resolved "https://registry.yarnpkg.com/@luciannojunior/gatsby-theme-lodge/-/gatsby-theme-lodge-1.1.18.tgz#f97d2598cffc0c04ea1a611bbd1b1333078efcc4"
+  integrity sha512-jnm7mRk32LTVZo5uWihEbOHL7g+teEGw7r8I4+T09FiM+H4/7v9BfOCeGCBXIj44Lv5VGDgHClSsML8Tr0pSyA==
   dependencies:
     "@luciannojunior/gatsby-transformer-pages-json" "^0.2.0"
     classnames "^2.2.6"
@@ -3526,10 +3526,15 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-electron-to-chromium@^1.3.306, electron-to-chromium@^1.3.317:
+electron-to-chromium@^1.3.306:
   version "1.3.321"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.321.tgz#913869f5ec85daabba0e75c9c314b4bf26cdb01e"
   integrity sha512-jJy/BZK2s2eAjMPXVMSaCmo7/pSY2aKkfQ+LoAb5Wk39qAhyP9r8KU74c4qTgr9cD/lPUhJgReZxxqU0n5puog==
+
+electron-to-chromium@^1.3.317:
+  version "1.3.322"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.322.tgz#a6f7e1c79025c2b05838e8e344f6e89eb83213a8"
+  integrity sha512-Tc8JQEfGQ1MzfSzI/bTlSr7btJv/FFO7Yh6tanqVmIWOuNCu6/D1MilIEgLtmWqIrsv+o4IjpLAhgMBr/ncNAA==
 
 electron-to-chromium@^1.3.47:
   version "1.3.314"

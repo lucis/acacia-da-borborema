@@ -16,10 +16,10 @@ const Loja = ({ texto = TEXTO }) => (
         desigualdade social, que deve ser tarefa diária de todo maçom. Ao
         contrário de outras instituições, a maçonaria não tem tradição de
         publicizar ações de caridade que realiza, já que o genuíno ato
-        filantrópico deve ocorrer sem a necessidade da divulgação. Entretanto, é
-        importante que algumas iniciativas sejam divulgadas para que mais
-        pessoas se engajem, seja junto a nós ou por si sós, e um dos casos que
-        esta Loja mostra com felicidade é o apoio ao grupo{' '}
+        filantrópico deve ocorrer <b>sem a necessidade da divulgação.</b>{' '}
+        Entretanto, é importante que algumas iniciativas sejam divulgadas para
+        que mais pessoas se engajem, seja junto a nós ou por si sós, e um dos
+        casos que esta Loja mostra com felicidade é o apoio ao grupo{' '}
         <a
           target="_blank"
           rel="noopener"
@@ -28,7 +28,11 @@ const Loja = ({ texto = TEXTO }) => (
           Sementes do Bem
         </a>
         , que já promoveu diversas ações de caridade região de Campina Grande -
-        PB, inclusive com o apoio da maçonaria.
+        PB, inclusive com o apoio da maçonaria. Ao longo dos 20 anos de
+        atividades, a Acácia da Borborema também promoveu ações em apoio a
+        associações beneficentes da cidade como APAE (Associação de Pais e
+        Amigos dos Excepcionais) , AEV Esperança e Vida e FAP (Fundação
+        Assistencial da Paraíba).
       </p>
     </div>
   </div>
