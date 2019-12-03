@@ -8,7 +8,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@luciannojunior/gatsby-theme-lodge": "^1.1.15",
+    "@luciannojunior/gatsby-theme-lodge": "^1.1.19",
     "classnames": "^2.2.6",
     "gatsby": "^2.15.7",
     "react": "^16.9.0",
