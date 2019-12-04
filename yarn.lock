@@ -786,9 +786,9 @@
     "@hapi/hoek" "^8.3.0"
 
 "@luciannojunior/gatsby-theme-lodge@^1.1.19":
-  version "1.1.23"
-  resolved "https://registry.yarnpkg.com/@luciannojunior/gatsby-theme-lodge/-/gatsby-theme-lodge-1.1.23.tgz#ed15488abcaba21a26e22458110af6584a7ae101"
-  integrity sha512-UbCMDEuV7mlvxfBCvGgkc1upSOJnJlyQhJGmbN7ZeJm8HcMVCcMuohMu7tSZJWKX6khwYTnqRxn7uJnr5439IA==
+  version "1.1.24"
+  resolved "https://registry.yarnpkg.com/@luciannojunior/gatsby-theme-lodge/-/gatsby-theme-lodge-1.1.24.tgz#f80515fb66450f1ba0d09cfb2f48fc84895b8d4b"
+  integrity sha512-kvoHhBHy3ikfKmDwu30BSfmz+dp2gLMqeImUemXD+/VPbGNuAWMWnazZ5i+q2PZ0CQFhDrjLCFGfK0IGye0hpg==
   dependencies:
     "@luciannojunior/gatsby-transformer-pages-json" "^0.2.0"
     classnames "^2.2.6"
@@ -7175,10 +7175,17 @@ node-pre-gyp@^0.12.0:
     semver "^5.3.0"
     tar "^4"
 
-node-releases@^1.1.40, node-releases@^1.1.41:
+node-releases@^1.1.40:
   version "1.1.41"
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.41.tgz#57674a82a37f812d18e3b26118aefaf53a00afed"
   integrity sha512-+IctMa7wIs8Cfsa8iYzeaLTFwv5Y4r5jZud+4AnfymzeEXKBCavFX0KBgzVaPVqf0ywa6PrO8/b+bPqdwjGBSg==
+  dependencies:
+    semver "^6.3.0"
+
+node-releases@^1.1.41:
+  version "1.1.42"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.42.tgz#a999f6a62f8746981f6da90627a8d2fc090bbad7"
+  integrity sha512-OQ/ESmUqGawI2PRX+XIRao44qWYBBfN54ImQYdWVTQqUckuejOg76ysSqDBK8NG3zwySRVnX36JwDQ6x+9GxzA==
   dependencies:
     semver "^6.3.0"
 
