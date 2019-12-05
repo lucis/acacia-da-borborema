@@ -19,9 +19,16 @@
     {
       "page": "nominata",
       "value": "Nominata"
+    },
+    {
+      "page": "publicacoes",
+      "value": "Publicações"
     }
   ],
   "pages": {
+    "publicacoes": {
+      "component": "PublicacoesPage"
+    },
     "veneraveis": {
       "component": "Veneraveis",
       "props": {
