@@ -11,6 +11,10 @@ module.exports = {
       resolve: '@luciannojunior/gatsby-theme-lodge',
       options: {
         basePath: '/',
+        prismic: {
+          key: process.env.PRISMIC_ACACIA,
+          repo: 'acacia-da-borborema'
+        }
       },
     },
   ],

@@ -1,8 +1,10 @@
 # Acácia da Borborema
 
-**[Em construção]**
-
 Site da Loja Macônica "Acácia da Borborema" nº 41 da cidade de Campina Grande - PB.
+
+**online em https://www.acaciadaborborema.com.br**
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f9779461-d738-4ac2-ae30-3ff15c55b238/deploy-status)](https://app.netlify.com/sites/acaciadaborborema/deploys)
 
 _Built with [Gatsby]([https://www.gatsbyjs.org/](https://www.gatsbyjs.org/))_
 
