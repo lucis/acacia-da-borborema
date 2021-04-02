@@ -832,12 +832,12 @@
     iterall "^1.1.3"
     uuid "^3.1.0"
 
-"@luciannojunior/gatsby-theme-lodge@^1.1.19":
-  version "1.1.28"
-  resolved "https://registry.yarnpkg.com/@luciannojunior/gatsby-theme-lodge/-/gatsby-theme-lodge-1.1.28.tgz#334d776cbe6c6365dd7a904879c4f0ad7cdd8a8e"
-  integrity sha512-hV9zjip1Uc8OpzYrKB4Fvj2g89y7cBC0dT3GWMODufzHrtuWselrsFFlrJDllT38Sav0UlachSpkH5zcZMVxkQ==
+"@lucis/gatsby-theme-lodge@^1.1.19":
+  version "1.1.31"
+  resolved "https://registry.yarnpkg.com/@lucis/gatsby-theme-lodge/-/gatsby-theme-lodge-1.1.31.tgz#f0c69fed6d916a1ae26271972bc4655313566133"
+  integrity sha512-sqRjPeEheQmnAq1RiB/h79jc+1XuPL2KsSSzojErXycI8Knylx5/yusaR9oc1G+VmMRIlVOPsF1YIhutnvFYpQ==
   dependencies:
-    "@luciannojunior/gatsby-transformer-pages-json" "^0.2.0"
+    "@lucis/gatsby-transformer-pages-json" "^0.2.0"
     classnames "^2.2.6"
     gatsby-plugin-layout "^1.1.6"
     gatsby-plugin-prefetch-google-fonts "^1.4.3"
@@ -850,10 +850,10 @@
     react-lazy-load "^3.0.13"
     react-spring "^8.0.27"
 
-"@luciannojunior/gatsby-transformer-pages-json@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@luciannojunior/gatsby-transformer-pages-json/-/gatsby-transformer-pages-json-0.2.0.tgz#5f6cd7dd74e7cf1f4aae247e26b945889f07ef69"
-  integrity sha512-WItiROrkVs3bxeyJV8ELDGlWyit/0TgcGDBkYHgGpqwljx/BW5ztpOZJVTNRVoDyEyp17fLidbso4L8FGA4gEQ==
+"@lucis/gatsby-transformer-pages-json@^0.2.0":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@lucis/gatsby-transformer-pages-json/-/gatsby-transformer-pages-json-0.2.1.tgz#0f571c109533818a5d1c04b291cff2e73987f6bf"
+  integrity sha512-E9iXF+2JGqEzgRQRjdL/UjGesNIgea8wtPJ9zTFaXdz30ViE2VIl/pcwcEaCJP5YBSYBXrM3JIA+PEmCMuIAgw==
 
 "@mikaelkristiansson/domready@^1.0.9":
   version "1.0.9"
