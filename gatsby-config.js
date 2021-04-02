@@ -8,7 +8,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: '@luciannojunior/gatsby-theme-lodge',
+      resolve: '@lucis/gatsby-theme-lodge',
       options: {
         basePath: '/',
         prismic: {
