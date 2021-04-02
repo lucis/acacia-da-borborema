@@ -5,12 +5,14 @@
   "scripts": {
     "build": "gatsby build",
     "start": "gatsby develop",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "preload-fonts": "gatsby-preload-fonts"
   },
   "dependencies": {
-    "@lucis/gatsby-theme-lodge": "^1.1.32",
+    "@lucis/gatsby-theme-lodge": "1.1.33",
     "classnames": "^2.2.6",
     "gatsby": "^2.15.7",
+    "gatsby-plugin-preload-fonts": "^2.2.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1",

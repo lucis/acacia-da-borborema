@@ -17,5 +17,6 @@ module.exports = {
         }
       },
     },
+    `gatsby-plugin-preload-fonts`
   ],
 }
