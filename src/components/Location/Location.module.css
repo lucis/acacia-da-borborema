@@ -1,0 +1,48 @@
+.mainDiv {
+  min-height: 500px;
+  background-color: #0072c5;
+  padding-bottom: 30px;
+}
+
+.title {
+  font-family: "Open Sans";
+  font-weight: 100;
+  color: #b1ddf1;
+}
+
+.address {
+  font-family: "Open Sans";
+  font-weight: 100;
+  display: block;
+  text-decoration: underline;
+}
+
+.addresssub {
+  color: white;
+  font-family: "Open Sans";
+  padding-bottom: 35px;
+  display: block;
+  font-size: 0.875rem;
+}
+
+.address:hover {
+  text-decoration: underline;
+  color: #b1ddf1;
+}
+
+.iframecontainer {
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}

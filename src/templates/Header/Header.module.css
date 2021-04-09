@@ -1,0 +1,60 @@
+.blue {
+  background-color: #b1ddf1;
+}
+.gl {
+}
+
+.gl img {
+  width: 7vw;
+  margin: 0 2vw 2vw 0;
+}
+
+.gl img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.logo {
+  margin: 15px;
+  height: 15vw;
+}
+.title {
+  font-size: 5vw;
+}
+
+.logo img {
+  width: 15vw;
+  border: 0.5vw solid #fff;
+  border-radius: 500px;
+  -webkit-border-radius: 500px;
+  -moz-border-radius: 500px;
+}
+
+.logo img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .gl img {
+    width: 4vw;
+    margin: 0 1vw 1vw 0;
+  }
+
+  .logo {
+    margin: 10px 30px;
+    height: auto;
+  }
+
+  .title {
+    font-size: 3vw;
+  }
+
+  .logo img {
+    width: 8vw;
+    border: 0.3vw solid #fff;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+  }
+}

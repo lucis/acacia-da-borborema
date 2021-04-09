@@ -62,18 +62,27 @@ const Cards = ({
 
   return (
     <>
+      <div className="pt4" id="cards">
         <div
           className={classnames(
             styles.outter,
-            'flex flex-row flex-wrap justify-center-ns'
+            'flex flex-row flex-wrap justify-center-ns db dn-ns'
           )}
-          id="cards"
         >
-          <Card classes="w-100 w-50-ns" data={cardsData.historia} />
-          <Card classes="w-100 w-50-ns" data={cardsData.diretoria} />
-          <Card classes="w-100 w-50-ns" data={cardsData.veneraveis} />
-          <Card classes="w-100 w-50-ns" data={cardsData.filantropia} />
+          <Card classes="w-100" data={cardsData.historia} />
+          <Card classes="w-100" data={cardsData.diretoria} />
+          <Card classes="w-100" data={cardsData.veneraveis} />
+          <Card classes="w-100" data={cardsData.filantropia} />
         </div>
+        <div className="flex-ns flex-s flex-row justify-center dn db-ns">
+          <Card classes={styles.cardLarge} data={cardsData.historia} />
+          <Card classes={styles.cardLarge} data={cardsData.diretoria} />
+        </div>
+        <div className="flex-ns flex-s flex-row justify-center dn db-ns">
+          <Card classes={styles.cardLarge} data={cardsData.veneraveis} />
+          <Card classes={styles.cardLarge} data={cardsData.filantropia} />
+        </div>
+      </div>
     </>
   )
 }

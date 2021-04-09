@@ -1,0 +1,52 @@
+.c {
+  max-width: 800px
+}
+
+@media only screen and (min-width: 900px) {
+  .c {
+    width: 800px;
+  }
+}
+.container {
+  background-color: #b1ddf1;
+  width: 100%;
+  min-height: 500px;
+}
+
+.container-page {
+  min-height: 600px;
+}
+
+.heading {
+  font-family: "Open Sans";
+  font-weight: 100;
+}
+.inner {
+  max-width: 700px;
+}
+
+.noticia {
+  background-color: rgba(255, 255, 255, 0.3); 
+}
+
+.a {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+.noticia-page {
+  background-color: #b1ddf155; 
+}
+.noticia *,
+.inner * {
+  font-family: "Open Sans";
+}
+
+.data {
+  color: #0072c5
+}
+
+.ano {
+  color: #003e6b
+}
