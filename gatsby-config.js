@@ -35,7 +35,6 @@ module.exports = {
           noticia: require('./src/schemas/noticia.json')
         }
       },
-    },
-    `gatsby-plugin-netlify`
+    }
   ],
 }
